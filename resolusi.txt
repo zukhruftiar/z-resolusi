@@ -1,4 +1,5 @@
 Resolusi Z :
 - Membuat konten website
+  - Membuat konsep website
 - Membuat desain frontend
 - Membuat desain backend
