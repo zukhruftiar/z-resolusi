@@ -1,3 +1,5 @@
 Membuat Website :
 - Membuat konsep website
 - Membuat desain frontend
+- Membuat frontend
+- Uji kelayakan frontend
