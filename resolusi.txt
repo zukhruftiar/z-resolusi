@@ -1,0 +1,4 @@
+Resolusi Z :
+- Membuat konten website
+- Membuat desain frontend
+- Membuat desain backend
