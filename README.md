@@ -1,0 +1,2 @@
+# z-resolusi
+Rosolusi Z
