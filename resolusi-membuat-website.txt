@@ -1,0 +1,3 @@
+Membuat Website :
+- Membuat konsep website
+- Membuat desain frontend
